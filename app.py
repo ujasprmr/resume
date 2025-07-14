@@ -4,8 +4,8 @@
 
 import base64
 import os
-from google import genai
-from google.genai import types
+import google. generativeai as genai  
+from google. genai import types
 
 
 def generate():
